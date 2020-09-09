@@ -5,6 +5,8 @@ import sys
 import json
 
 
+#Blockchain start 
+
 def proof_of_work(block):
     """
     Simple Proof of Work Algorithm
